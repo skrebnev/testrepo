@@ -1,4 +1,7 @@
 *.txt
+*.iml
+explore_california/.idea/*
+
 
 
 
