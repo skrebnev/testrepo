@@ -1,4 +1,7 @@
+# Files
 *.txt
+
+# IntelliJIDEA
 *.iml
 explore_california/.idea/*
 
